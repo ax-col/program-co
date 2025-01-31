@@ -17,11 +17,11 @@ global.defaultLenguaje = 'es';
 
 global.owner = [
   ['573219724961', '👑 Andrex - Creador 👑', true],
-  ['51940617554', '💫 Minifire - Developer 💫', true],
+  ['573203941975', '💫 Minifire - Developer 💫', true],
 ];
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.suittag = ['573219724961'];
+global.prems = ['573219724961'];
 
 // API
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
@@ -29,9 +29,9 @@ global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 global.packname = 'Sticker';
 global.author = 'W O R L D - Bot';
 global.wm = 'W O R L D - Bot';
-global.titulowm = 'World - Bot';
+global.titulowm = 'W O R L D - Bot';
 global.titulowm2 = `W O R L D - Bot`
-global.igfg = 'The Mystic - Bot';
+global.igfg = 'W O R L D - Bot';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 /*global.imagen1 = fs.createReadStream('./src/assets/images/menu/languages/es/menu.png');
@@ -58,9 +58,9 @@ global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
 global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
-global.gt = 'The Mystic - Bot';
-global.mysticbot = 'The Mystic - Bot';
-global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
+global.gt = 'W O R L D - Bot';
+global.mysticbot = 'W O R L D - Bot';
+global.channel = 'https://whatsapp.com/';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
